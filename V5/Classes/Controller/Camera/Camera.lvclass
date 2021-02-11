@@ -34,13 +34,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Camera.vi" Type="VI" URL="../Camera.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)@!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$5!+!!&gt;/&gt;7VF=GFD!"2!1!!"`````Q!%"E.B&lt;76S91!!51$R!!!!!!!!!!%/35V"53"*&lt;7&amp;H:3ZD&gt;'Q!/E"Q!"U*35V"55FN97&gt;F!!!*35V"55FN97&gt;F'1#!!!!!!!%!"!!!!!%!!!!!!!!&amp;37VB:W5!*E"Q!"Y!!"!/1W&amp;N:8*B,GRW9WRB=X-!!!J$97VF=G%A&lt;X6U!!!%!!!!DQ$R!!!!!!!!!!)/1W&amp;N:8*B,GRW9WRB=X-347&amp;D;'FO:3"7;8.J&lt;WYO9X2M!'6!&amp;A!'"%ZP&lt;G5/6(*B?3"';72V9WFB&lt;(-,3&amp;",)&amp;.J&lt;'FD&lt;WY*3'6Y97*P98*E$U.P=GZF=C!I6%QM)%*3+1^$&lt;X*O:8)A+%*-,#"55CE!$EVB9WBJ&lt;G5A6GFT;7^O!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!J!)124&gt;'^Q!!!E1(!!(A!!%!Z$97VF=G%O&lt;(:D&lt;'&amp;T=Q!!#5.B&lt;76S93"J&lt;A"B!0!!$!!$!!5!"A!(!!A!#!!)!!E!#A!)!!M!$!-!!(A!!!U)!!!*!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!+!!!!#!!!!!!!!!!+!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+H!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$5!+!!&gt;/&gt;7VF=GFD!"2!1!!"`````Q!%"E.B&lt;76S91!!51$R!!!!!!!!!!%/35V"53"*&lt;7&amp;H:3ZD&gt;'Q!/E"Q!"U*35V"55FN97&gt;F!!!*35V"55FN97&gt;F'1#!!!!!!!%!"!!!!!%!!!!!!!!&amp;37VB:W5!*E"Q!"Y!!"!/1W&amp;N:8*B,GRW9WRB=X-!!!J$97VF=G%A&lt;X6U!!!%!!!"&amp;Q$R!!!!!!!!!!)/1W&amp;N:8*B,GRW9WRB=X-347&amp;D;'FO:3"7;8.J&lt;WYO9X2M!/V!&amp;A!/"%ZP&lt;G5/6(*B?3"';72V9WFB&lt;(-,3&amp;",)&amp;.J&lt;'FD&lt;WY*3'6Y97*P98*E$U.P=GZF=C!I6%QM)%*3+1^$&lt;X*O:8)A+%*-,#"55CE1=WFM;7.P&lt;C"U&lt;X!A&lt;'6G&gt;".T;7RJ9W^O)'*P&gt;(2P&lt;3"M:7:U%8.J&lt;'FD&lt;WYA&gt;'^Q)(*J:WBU&amp;(.J&lt;'FD&lt;WYA9G^U&gt;'^N)(*J:WBU$&amp;"$1C"U&lt;X!A&lt;'6G&gt;!^11U)A9G^U&gt;'^N)'RF:H1.5%.#)(2P=#"S;7&gt;I&gt;""11U)A9G^U&gt;'^N)(*J:WBU!!Z.97.I;7ZF)&amp;:J=WFP&lt;A!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!+1#%%5X2P=!!!*%"Q!"Y!!"!/1W&amp;N:8*B,GRW9WRB=X-!!!F$97VF=G%A;7Y!91$Q!!Q!!Q!&amp;!!9!"Q!)!!A!#!!*!!I!#!!,!!Q$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!#A!!!!A!!!!!!!!!#A!!!")!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">262400</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Get Camera Object.vi" Type="VI" URL="../Get Camera Object.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$$!!!!"Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E.B&lt;76S93ZM&gt;G.M98.T!!!+1W&amp;N:8*B)'^V&gt;!!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!1!"!!%!!1#!!"Y!!!*!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!'!!!!!!</Property>
