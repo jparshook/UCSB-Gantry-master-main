@@ -37,6 +37,7 @@
 				<Item Name="8 Inch CAD Dispense.lvclass" Type="LVClass" URL="../../Classes/Routine/Dispense/CAD Dispense/8 Inch CAD Dispense.lvclass"/>
 				<Item Name="6 Inch Iterative Dispense.lvclass" Type="LVClass" URL="../../Classes/Routine/Dispense/Iterative Dispense/6 inch/6 Inch Iterative Dispense.lvclass"/>
 				<Item Name="8 Inch Iterative Dispense.lvclass" Type="LVClass" URL="../../Classes/Routine/Dispense/Iterative Dispense/8 inch/8 Inch Iterative Dispense.lvclass"/>
+				<Item Name="Offset Dispense.lvclass" Type="LVClass" URL="../../Classes/Routine/Dispense/CAD Dispense/Offset Dispense.lvclass"/>
 			</Item>
 			<Item Name="Controllers" Type="Folder">
 				<Item Name="Edmund Optics.lvclass" Type="LVClass" URL="../../Classes/Controller/Camera/Edmund Optics/Edmund Optics.lvclass"/>
@@ -418,7 +419,6 @@
 				<Item Name="IVA Store Caliper Results.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Vision Assistant Utils.llb/IVA Store Caliper Results.vi"/>
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
 				<Item Name="IMAQdx.ctl" Type="VI" URL="/&lt;vilib&gt;/userDefined/High Color/IMAQdx.ctl"/>
-				<Item Name="Simple Grid Descriptor" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Simple Grid Descriptor"/>
 				<Item Name="LMH-LINX.lvlib" Type="Library" URL="/&lt;vilib&gt;/MakerHub/LINX/LMH-LINX.lvlib"/>
 				<Item Name="Write.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Instrument Drivers/Onboard IO/DIO/vis/Write.vi"/>
 				<Item Name="Smart Open.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Instrument Drivers/Onboard IO/DIO/vis/Smart Open.vi"/>
@@ -432,6 +432,8 @@
 				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
 				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
 				<Item Name="IVA Clear Coordsys Errors.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Vision Assistant Utils.llb/IVA Clear Coordsys Errors.vi"/>
+				<Item Name="IVA Get Alternate Path.vi" Type="VI" URL="/&lt;vilib&gt;/vision/Vision Assistant Utils.llb/IVA Get Alternate Path.vi"/>
+				<Item Name="IMAQ Read Image And Vision Info" Type="VI" URL="/&lt;vilib&gt;/vision/Files1.llb/IMAQ Read Image And Vision Info"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
