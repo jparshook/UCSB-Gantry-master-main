@@ -117,22 +117,13 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
 		<Item Name="Calculate Average Center.vi" Type="VI" URL="../Calculate Average Center.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#G!!!!"A!%!!!!"1!+!!!71%!!!@````]!!1B976J5;'6U91!!$5!+!!&gt;/&gt;7VF=GFD!"Z!1!!"`````Q!$%%&gt;B&lt;H2S?3"';72V9WFB&lt;(-!!&amp;1!]!!-!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!%!A!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!))!!!!!!%!"1!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#G!!!!"A!%!!!!"1!+!!!71%!!!@````]!!1B976J5;'6U91!!$5!+!!&gt;/&gt;7VF=GFD!"Z!1!!"`````Q!$%%&gt;B&lt;H2S?3"';72V9WFB&lt;(-!!&amp;1!]!!-!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!%!A!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!%!"1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
-		</Item>
-		<Item Name="Find Average BP Center.vi" Type="VI" URL="../Find Average BP Center.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(!!!!!#!!%!!!!$5!+!!&gt;/&gt;7VF=GFD!#*!1!!#``````````]!!2"976J5;'6U93"$:7ZU:8*T!!#'1(!!'!!!!!%!!!"M176S&lt;X2F9WAO14-S-$!O1W^O&gt;(*P&lt;'RF=CQA176S&lt;X2F9WAO14-S-$!M)&amp;:F=H.J&lt;WY^-#YQ,D!O-#QA1X6M&gt;(6S:4VO:86U=G&amp;M,#"1&gt;7*M;7.,:8F5&lt;WNF&lt;DUU.TBF.T)X-4FD-T)X-T6F#E&gt;B&lt;H2S?3"0&gt;81!!"&amp;!!Q!,6(*B?3"/&gt;7VC:8)!&amp;E"!!!(`````!!%)7&amp;F;6'BF&gt;'%!!)2!=!!9!!!!!1!!!'R":8*P&gt;'6D;#Z"-T)Q-#Z$&lt;WZU=G^M&lt;'6S,#"":8*P&gt;'6D;#Z"-T)Q-#QA6G6S=WFP&lt;DUQ,D!O-#YQ,#"$&gt;7RU&gt;8*F07ZF&gt;82S97QM)&amp;"V9GRJ9UNF?62P;W6O041X/'5X-D=R/7-T-D=T.75*2W&amp;O&gt;(*Z)%FO!&amp;1!]!!-!!!!!A!!!!-!!!!!!!!!"!!!!!5!!!!'!Q!!?!!!!!!!!!E!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!I!!!!!!!!##!!!!!!!!!!+!!!!!!%!"Q!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">1074004224</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 		</Item>
 	</Item>
 	<Item Name="Default Settings.vi" Type="VI" URL="../Default Settings.vi">
