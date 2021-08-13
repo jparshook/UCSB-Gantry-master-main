@@ -447,7 +447,6 @@
 			</Item>
 			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../../../../HEP Gantry/Documents/Assembly/V4/Drivers/Aerotech A3200/Bin/Aerotech.A3200.LabVIEW.dll"/>
 			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../../../../HEP Gantry/Documents/Old Projects/V1 Johan Detector Assembly Project Pre-TypeDef/VIs/Low-Level Instrument VIs/Aerotech/Bin/Aerotech.A3200.LabVIEW.dll"/>
-			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../../../../HEP Gantry/Documents/Old Projects/V1 Johan Detector Assembly Project Pre-TypeDef/VIs/Low-Level Instrument VIs/Aerotech/Bin/Aerotech.A3200.dll"/>
 			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../../../../HEP Gantry/Documents/Assembly/V4/Drivers/Aerotech A3200/Bin/Aerotech.A3200.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
