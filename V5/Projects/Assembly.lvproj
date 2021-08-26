@@ -79,6 +79,7 @@
 		<Item Name="Untitled 5.vi" Type="VI" URL="../../Classes/Routine/Dispense/Iterative Dispense/8 inch/Untitled 5.vi"/>
 		<Item Name="bellows flatness conversion.vi" Type="VI" URL="../../../../OLD/V5/Main VIs/bellows flatness conversion.vi"/>
 		<Item Name="find average of coordinates.vi" Type="VI" URL="../../../../OLD/V5/Main VIs/find average of coordinates.vi"/>
+		<Item Name="XY offset corrections.vi" Type="VI" URL="../../XY offset corrections.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
