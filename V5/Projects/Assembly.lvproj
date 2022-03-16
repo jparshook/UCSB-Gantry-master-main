@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="19008000">
+<Project Type="Project" LVVersion="20008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -466,6 +466,8 @@
 			</Item>
 			<Item Name="Aerotech.A3200.LabVIEW.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/Aerotech/A3200/LabVIEW/2010/Bin/Aerotech.A3200.LabVIEW.dll"/>
 			<Item Name="Aerotech.A3200.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/Aerotech/A3200/LabVIEW/2010/Bin/Aerotech.A3200.dll"/>
+			<Item Name="PythonVersionsEnum.ctl" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/examples/Connectivity/Python/support/PythonVersionsEnum.ctl"/>
+			<Item Name="ToPythonVersionString.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2020/examples/Connectivity/Python/support/ToPythonVersionString.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
